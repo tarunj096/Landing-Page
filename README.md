@@ -7,4 +7,4 @@ A simple HTML-CSS landing page with a background image.
  
  # Screenshot/Image:
  
- ![Screenshot of the page]("https://github.com/tarunj096/Landing-Page/blob/master/images/Landing%20Page%20Image.png")
+ ![Screenshot of the page]("https://github.com/tarunj096/Landing-Page/blob/master/images/Landing Page Image.png")
